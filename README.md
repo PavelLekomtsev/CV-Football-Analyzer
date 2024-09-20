@@ -17,7 +17,7 @@
 
 ## 🎥 Видео проекта
 ### Пробное видео
-[Смотреть пробное видео](InputVideo\SecondV.mp4)
+[Смотреть пробное видео](https://github.com/PavelLekomtsev/CV-Football-Analyzer/blob/main/InputVideo/SecondV.mp4)
 
 ### Размеченное видео
-[Смотреть размеченное видео](OutputVideo\output_video2.avi)
+[Смотреть размеченное видео](https://github.com/PavelLekomtsev/CV-Football-Analyzer/blob/main/OutputVideo/output_video2.avi)
